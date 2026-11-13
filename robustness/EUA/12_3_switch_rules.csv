@@ -1,0 +1,4 @@
+Regime,N_Validation,Original,Corrected,Changed
+Low,336,Random Forest,Random Forest,False
+Normal,237,Random Forest,Random Forest,False
+High,196,HAR,HAR,False

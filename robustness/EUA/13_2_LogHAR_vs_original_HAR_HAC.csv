@@ -1,0 +1,2 @@
+Market,N,Mean_QLIKE_LogHAR_minus_HAR,HAC_lags,HAC_p_two_sided,Method
+EUA,1728,-0.04532227750665032,7,0.019901711251553454,"OLS mean-loss differential, Newey-West HAC(7)"

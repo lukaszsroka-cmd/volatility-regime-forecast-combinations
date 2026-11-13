@@ -1,0 +1,4 @@
+Market,Family,Original_selected,Selected_without_boundary,Same_selected_model,QLIKE_of_corrected_best,Second_best_QLIKE,Eligible_candidates_rechecked
+EUA,GARCH,"GARCH(1,3)","GARCH(1,3)",True,2.92391214106,2.92454538474,9
+EUA,EGARCH,"EGARCH(1,1,3)","EGARCH(1,1,3)",True,2.94750007639,2.94802397079,9
+EUA,GJR-GARCH,"GJR-GARCH(1,1,3)","GJR-GARCH(1,1,3)",True,2.93013041662,2.93102828688,9

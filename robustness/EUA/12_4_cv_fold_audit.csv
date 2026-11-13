@@ -1,0 +1,6 @@
+Fold,Train_end_origin,Last_training_target_date,CV_validation_first_origin,Target_at_or_after_cv_start,Target_strictly_after_cv_start
+1,2011-04-14,2011-04-15,2011-04-15,True,False
+2,2012-06-06,2012-06-07,2012-06-07,True,False
+3,2013-07-26,2013-07-29,2013-07-29,True,False
+4,2014-09-16,2014-09-17,2014-09-17,True,False
+5,2015-11-09,2015-11-10,2015-11-10,True,False
