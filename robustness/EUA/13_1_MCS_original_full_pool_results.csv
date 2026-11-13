@@ -1,0 +1,12 @@
+Model,MCS_pvalue,Mean_QLIKE,Included_MCS_95pct,MCS_Block_Size,MCS_Reps,MCS_Method,Market
+Regime Switch,1.0,2.5588388922920178,True,41,3000,R; stationary bootstrap,EUA
+Random Forest,0.7326666666666667,2.561392239993101,True,41,3000,R; stationary bootstrap,EUA
+Static QLIKE,0.256,2.5725134860683294,True,41,3000,R; stationary bootstrap,EUA
+GJR-GARCH,0.181,2.5772297826259454,True,41,3000,R; stationary bootstrap,EUA
+GARCH,0.142,2.578528849270935,True,41,3000,R; stationary bootstrap,EUA
+Regime Weighted,0.181,2.5819714846147996,True,41,3000,R; stationary bootstrap,EUA
+EGARCH,0.026333333333333334,2.5846876099134275,False,41,3000,R; stationary bootstrap,EUA
+Equal Weight 3,0.026333333333333334,2.6113422024011204,False,41,3000,R; stationary bootstrap,EUA
+SVR,0.0,2.6153489647269685,False,41,3000,R; stationary bootstrap,EUA
+HAR,0.0003333333333333333,2.641005542210456,False,41,3000,R; stationary bootstrap,EUA
+XGBoost - original,0.004333333333333333,2.6645513758249137,False,41,3000,R; stationary bootstrap,EUA
