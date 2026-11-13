@@ -1,11 +1,5 @@
 # Observed third-party dependencies imported or needed for interactive execution
 # Notebook metadata: Python 3.10.20
-# Versions are deliberately NOT pinned: the source notebook does not record
-# the historical versions of these packages. In the ORIGINAL environment run:
-#   python -m pip freeze > requirements-lock.txt
-# to create an authentic historical package lock (terminal command).
-# A lock generated in a different environment is not the original environment.
-
 arch==8.0.0
 asttokens==3.0.1
 Bottleneck==1.4.2
