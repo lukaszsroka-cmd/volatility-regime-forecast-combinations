@@ -1,0 +1,2 @@
+Market,N,Sample_Start,Sample_End,Train_Frozen_Scale,CUSUM_OLS_Statistic,CUSUM_Asymptotic_p,Caveat
+Brent,2510,2017-01-03,2026-09-22,1.862991965487731,2.724886919462999,7.108031797742905e-07,CUSUM asymptotic p-values may be sensitive to heteroskedasticity/dependence

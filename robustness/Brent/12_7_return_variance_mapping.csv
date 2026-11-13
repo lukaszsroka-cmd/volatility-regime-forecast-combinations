@@ -1,0 +1,9 @@
+Market,Model,Kind,Scale_from_Validation,N_Validation,Test_admissible,Test_nonpositive,Reason
+Brent,HAR,Parkinson proxy -> return variance,1.23394118003,773,True,0,OK
+Brent,Random Forest,Parkinson proxy -> return variance,1.14913639184,773,True,0,OK
+Brent,Equal Weight 3,Parkinson proxy -> return variance,1.17283578781,773,True,0,OK
+Brent,Static QLIKE,Parkinson proxy -> return variance,1.17195135546,773,True,0,OK
+Brent,Regime Weighted,Parkinson proxy -> return variance,1.15493695013,773,True,0,OK
+Brent,Regime Switch,Parkinson proxy -> return variance,1.15288448808,773,False,1,Nonpositive Test variance: excluded in full
+Brent,Inverse-MSE,Parkinson proxy -> return variance,1.17306724173,773,True,0,OK
+Brent,Historical Vol 20,Direct return variance,1,773,True,0,OK

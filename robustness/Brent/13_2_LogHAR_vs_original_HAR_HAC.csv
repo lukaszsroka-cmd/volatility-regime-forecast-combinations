@@ -1,0 +1,2 @@
+Market,N,Mean_QLIKE_LogHAR_minus_HAR,HAC_lags,HAC_p_two_sided,Method
+Brent,1736,0.062327009860085415,7,0.0007393454358378695,"OLS mean-loss differential, Newey-West HAC(7)"

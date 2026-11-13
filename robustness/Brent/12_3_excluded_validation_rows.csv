@@ -1,0 +1,2 @@
+Date,Target_Parkinson_t1,Volatility_Regime_5D,Forecast_HAR,Forecast_RF,Forecast_XGB,Target_Date
+2019-12-31,0.609626710767,Low,1.4419984535,1.46191297405,1.43308532238,2020-01-02

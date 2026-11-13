@@ -1,0 +1,4 @@
+Strategy,Original_Test_QLIKE,Corrected_Test_QLIKE,Difference,Changed_forecast_days,Max_abs_forecast_change
+Static QLIKE,2.54690166109,2.54688794978,-1.3711309844e-05,1736,0.113840862264
+Regime Weighted,2.56702017711,2.56703073255,1.05554381182e-05,574,0.00314848731812
+Regime Switch,,,,0,0

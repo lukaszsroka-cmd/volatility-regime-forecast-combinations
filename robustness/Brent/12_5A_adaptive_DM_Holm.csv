@@ -1,0 +1,5 @@
+Comparison,N,Mean_Loss_Diff,DM_stat,p_value,HAC_lags,Status,p_value_Holm,Significant_Holm_5pct
+Regime Weighted vs Static QLIKE,1736,0.0201427827685,2.84958599389,0.00442930080068,7,OK,0.00442930080068,True
+Regime Switch vs Static QLIKE,1736,,,,,QLIKE inadmissible; First_nonpositive=1; Second_nonpositive=0,,False
+Regime Weighted vs Equal Weight 3,1736,0.0219386646293,3.51819094851,0.000445695128969,7,OK,0.000891390257937,True
+Regime Switch vs Equal Weight 3,1736,,,,,QLIKE inadmissible; First_nonpositive=1; Second_nonpositive=0,,False

@@ -1,0 +1,4 @@
+Market,Family,Original_selected,Selected_without_boundary,Same_selected_model,QLIKE_of_corrected_best,Second_best_QLIKE,Eligible_candidates_rechecked
+Brent,GARCH,"GARCH(2,1)","GARCH(2,1)",True,1.98702062885,1.98702152326,9
+Brent,EGARCH,"EGARCH(1,1,2)","EGARCH(1,1,2)",True,1.96865576209,1.96902567115,9
+Brent,GJR-GARCH,"GJR-GARCH(2,1,2)","GJR-GARCH(2,1,2)",True,1.97807960413,1.9780796386,9

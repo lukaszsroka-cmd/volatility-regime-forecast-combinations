@@ -1,0 +1,7 @@
+Market,Comparison,N,Mean_Loss_Diff,DM_stat,p_value,HAC_lags,Status,p_value_Holm,Significant_Holm_5pct
+Brent,Inverse-MSE vs HAR,1736,-0.0246549668729,-3.29071476473,0.00101937408937,7,OK,0.00407749635749,True
+Brent,Inverse-MSE vs Random Forest,1736,-0.00580360863466,-1.10019720319,0.271398832024,7,OK,0.814196496072,False
+Brent,Inverse-MSE vs Equal Weight 3,1736,3.02416642717e-05,0.611790457834,0.540756560946,7,OK,0.814196496072,False
+Brent,Inverse-MSE vs Static QLIKE,1736,-0.00177935150643,-0.858516732994,0.390725781949,7,OK,0.814196496072,False
+Brent,Inverse-MSE vs Regime Weighted,1736,-0.0218978675268,-3.52600439474,0.000432841639553,7,OK,0.00216420819776,True
+Brent,Inverse-MSE vs Regime Switch,1736,,,,,"QLIKE inadmissible: InvMSE=0, benchmark=1 nonpositive",,False

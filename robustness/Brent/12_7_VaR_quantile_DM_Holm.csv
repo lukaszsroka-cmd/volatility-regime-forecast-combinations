@@ -1,0 +1,53 @@
+Market,Distribution,VaR_Level,Comparison,N,Mean_Loss_Diff,DM_stat,p_value,HAC_lags,Status,p_value_Holm,Significant_Holm_5pct
+Brent,Gaussian,0.95,HAR vs Historical Vol 20,1736,-0.00676809330343,-1.16668743497,0.24349695128,7,OK,0.973987805119,False
+Brent,Gaussian,0.95,Random Forest vs Historical Vol 20,1736,-0.00677060209676,-1.1333052165,0.257242679442,7,OK,0.973987805119,False
+Brent,Gaussian,0.95,Equal Weight 3 vs Historical Vol 20,1736,-0.0113260607212,-1.9325406915,0.0534553975053,7,OK,0.481098577548,False
+Brent,Gaussian,0.95,Static QLIKE vs Historical Vol 20,1736,-0.0121433668238,-1.86297390398,0.0626348113764,7,OK,0.481098577548,False
+Brent,Gaussian,0.95,Regime Weighted vs Historical Vol 20,1736,-0.0074320761336,-1.30103746404,0.193418385192,7,OK,0.967091925958,False
+Brent,Gaussian,0.95,Regime Switch vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.95,Inverse-MSE vs Historical Vol 20,1736,-0.011299408079,-1.93239549043,0.053473317179,7,OK,0.481098577548,False
+Brent,Gaussian,0.95,GARCH native vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.95,Regime Switch vs Inverse-MSE,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.95,Regime Switch vs Random Forest,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.95,Inverse-MSE vs Equal Weight 3,1736,2.66526422292e-05,0.734890819672,0.462505305892,7,OK,0.973987805119,False
+Brent,Gaussian,0.95,Inverse-MSE vs Static QLIKE,1736,0.000843958744783,0.605657404196,0.544821492631,7,OK,0.973987805119,False
+Brent,Gaussian,0.95,Inverse-MSE vs Random Forest,1736,-0.00452880598224,-1.59883523812,0.110039295265,7,OK,0.660235771592,False
+Brent,Gaussian,0.99,HAR vs Historical Vol 20,1736,-0.0158963861303,-2.57160289624,0.0102055045583,7,OK,0.0714385319081,False
+Brent,Gaussian,0.99,Random Forest vs Historical Vol 20,1736,-0.0151979797012,-2.37967168647,0.0174356011767,7,OK,0.0871780058836,False
+Brent,Gaussian,0.99,Equal Weight 3 vs Historical Vol 20,1736,-0.0181112993866,-2.71686461994,0.00665583416331,7,OK,0.0591786354829,False
+Brent,Gaussian,0.99,Static QLIKE vs Historical Vol 20,1736,-0.0185003097588,-2.5692473367,0.0102748728974,7,OK,0.0714385319081,False
+Brent,Gaussian,0.99,Regime Weighted vs Historical Vol 20,1736,-0.0136305932941,-2.2739300347,0.0230918725309,7,OK,0.0923674901237,False
+Brent,Gaussian,0.99,Regime Switch vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.99,Inverse-MSE vs Historical Vol 20,1736,-0.0181088142765,-2.72090365287,0.00657540394254,7,OK,0.0591786354829,False
+Brent,Gaussian,0.99,GARCH native vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.99,Regime Switch vs Inverse-MSE,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.99,Regime Switch vs Random Forest,1736,,,,,Not admissible for full Test,,False
+Brent,Gaussian,0.99,Inverse-MSE vs Equal Weight 3,1736,2.48511004822e-06,0.100141473272,0.920243579506,7,OK,1,False
+Brent,Gaussian,0.99,Inverse-MSE vs Static QLIKE,1736,0.000391495482264,0.383025524969,0.70174775962,7,OK,1,False
+Brent,Gaussian,0.99,Inverse-MSE vs Random Forest,1736,-0.00291083457533,-1.91879947395,0.0551736265504,7,OK,0.165520879651,False
+Brent,Empirical,0.95,HAR vs Historical Vol 20,1736,-0.00885232180591,-1.6325142824,0.102752650842,7,OK,0.427639338213,False
+Brent,Empirical,0.95,Random Forest vs Historical Vol 20,1736,-0.0106053235926,-1.72045612337,0.0855278676426,7,OK,0.427639338213,False
+Brent,Empirical,0.95,Equal Weight 3 vs Historical Vol 20,1736,-0.0154142813029,-2.66955225215,0.00766609010111,7,OK,0.0684511028626,False
+Brent,Empirical,0.95,Static QLIKE vs Historical Vol 20,1736,-0.0159426768677,-2.50683967001,0.0122723992541,7,OK,0.085906794779,False
+Brent,Empirical,0.95,Regime Weighted vs Historical Vol 20,1736,-0.0114300008688,-2.01977670992,0.0435600099409,7,OK,0.261360059646,False
+Brent,Empirical,0.95,Regime Switch vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.95,Inverse-MSE vs Historical Vol 20,1736,-0.0153998021864,-2.67221916188,0.00760567809584,7,OK,0.0684511028626,False
+Brent,Empirical,0.95,GARCH native vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.95,Regime Switch vs Inverse-MSE,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.95,Regime Switch vs Random Forest,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.95,Inverse-MSE vs Equal Weight 3,1736,1.4479116438e-05,0.424161516898,0.671500608655,7,OK,1,False
+Brent,Empirical,0.95,Inverse-MSE vs Static QLIKE,1736,0.00054287468127,0.391352500369,0.695584752897,7,OK,1,False
+Brent,Empirical,0.95,Inverse-MSE vs Random Forest,1736,-0.00479447859381,-1.66574752193,0.0959442359299,7,OK,0.427639338213,False
+Brent,Empirical,0.99,HAR vs Historical Vol 20,1736,-0.013709552211,-2.88896439434,0.00391309811828,7,OK,0.0191030000213,True
+Brent,Empirical,0.99,Random Forest vs Historical Vol 20,1736,-0.0134240925511,-2.95353528368,0.00318383333689,7,OK,0.0191030000213,True
+Brent,Empirical,0.99,Equal Weight 3 vs Historical Vol 20,1736,-0.0157695550353,-3.12595092176,0.00180168647849,7,OK,0.0159603795507,True
+Brent,Empirical,0.99,Static QLIKE vs Historical Vol 20,1736,-0.0162573721413,-2.91168462036,0.00364076195305,7,OK,0.0191030000213,True
+Brent,Empirical,0.99,Regime Weighted vs Historical Vol 20,1736,-0.0137775121723,-3.0468563778,0.00234735435959,7,OK,0.0164314805171,True
+Brent,Empirical,0.99,Regime Switch vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.99,Inverse-MSE vs Historical Vol 20,1736,-0.0157616659744,-3.13063228871,0.00177337550563,7,OK,0.0159603795507,True
+Brent,Empirical,0.99,GARCH native vs Historical Vol 20,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.99,Regime Switch vs Inverse-MSE,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.99,Regime Switch vs Random Forest,1736,,,,,Not admissible for full Test,,False
+Brent,Empirical,0.99,Inverse-MSE vs Equal Weight 3,1736,7.88906089596e-06,0.262365009597,0.793071193375,7,OK,1,False
+Brent,Empirical,0.99,Inverse-MSE vs Static QLIKE,1736,0.000495706166977,0.42075580057,0.673985519921,7,OK,1,False
+Brent,Empirical,0.99,Inverse-MSE vs Random Forest,1736,-0.00233757342331,-1.26359383123,0.206545605062,7,OK,0.619636815187,False
