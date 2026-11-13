@@ -1,0 +1,2 @@
+Market,N,Sample_Start,Sample_End,Train_Frozen_Scale,CUSUM_OLS_Statistic,CUSUM_Asymptotic_p,Caveat
+Copper,2542,2017-01-04,2026-09-22,1.003982171444179,4.110388266838923,4.226356046803297e-15,CUSUM asymptotic p-values may be sensitive to heteroskedasticity/dependence

@@ -1,0 +1,4 @@
+Market,Family,Original_selected,Selected_without_boundary,Same_selected_model,QLIKE_of_corrected_best,Second_best_QLIKE,Eligible_candidates_rechecked
+Copper,GARCH,"GARCH(1,3)","GARCH(1,3)",True,1.1324097511,1.13252214878,9
+Copper,EGARCH,"EGARCH(2,1,2)","EGARCH(2,1,2)",True,1.12959756094,1.1296268197,9
+Copper,GJR-GARCH,"GJR-GARCH(1,1,2)","GJR-GARCH(1,1,2)",True,1.12777295105,1.12781086373,9

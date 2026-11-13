@@ -1,0 +1,2 @@
+Market,N,Mean_QLIKE_LogHAR_minus_HAR,HAC_lags,HAC_p_two_sided,Method
+Copper,1772,0.14876624388521095,7,1.2839408030364277e-09,"OLS mean-loss differential, Newey-West HAC(7)"

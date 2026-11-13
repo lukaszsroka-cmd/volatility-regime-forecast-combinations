@@ -1,0 +1,3 @@
+Market,Event,Cutoff,N_Pre,N_Post,Mean_LogPV_Pre,Mean_LogPV_Post,Post_Intercept_Shift,Post_AR1_Slope_Shift,Joint_Wald_Chi2,df,p_raw_HAC,HAC_lags,Interpretation,p_Holm_within_market,Reject_5pct_Holm
+Copper,COVID-19 (WHO pandemic declaration),2020-03-11,821,1721,0.6428701999788271,0.9728527462625699,0.022326977783736945,0.2582756210565108,107.62726530523746,2,4.256339758119832e-24,7,Predefined-date AR(1) parameter-stability test; not causal,8.512679516239665e-24,True
+Copper,European energy crisis (predefined onset proxy),2021-09-01,1209,1333,0.7364093939114923,0.9840638058976037,0.11038290157733575,0.047954539183217876,34.70778977080143,2,2.9060241007306785e-08,7,Predefined-date AR(1) parameter-stability test; not causal,2.9060241007306785e-08,True

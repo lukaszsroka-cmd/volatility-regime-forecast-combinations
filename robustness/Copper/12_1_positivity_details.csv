@@ -1,0 +1,8 @@
+Split,Model,Date,Target_Parkinson_t1,Forecast
+Validation,Naive,2017-08-30,0.251275522265,0
+Validation,Naive,2019-04-19,0.490687631273,0
+Test,Naive,2020-04-10,3.95034438503,0
+Test,Naive,2021-01-01,2.05114481409,0
+Test,Naive,2021-12-24,2.95033840657,0
+Test,Naive,2022-04-15,3.24065517265,0
+Test,Naive,2024-03-29,0.421955332916,0

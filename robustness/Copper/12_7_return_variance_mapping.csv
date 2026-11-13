@@ -1,0 +1,9 @@
+Market,Model,Kind,Scale_from_Validation,N_Validation,Test_admissible,Test_nonpositive,Reason
+Copper,HAR,Parkinson proxy -> return variance,1.19505926066,769,True,0,OK
+Copper,Random Forest,Parkinson proxy -> return variance,1.16451300914,769,True,0,OK
+Copper,Equal Weight 3,Parkinson proxy -> return variance,1.16829535259,769,True,0,OK
+Copper,Static QLIKE,Parkinson proxy -> return variance,1.1682564066,769,True,0,OK
+Copper,Regime Weighted,Parkinson proxy -> return variance,1.16200646516,769,True,0,OK
+Copper,Regime Switch,Parkinson proxy -> return variance,1.16086405485,769,True,0,OK
+Copper,Inverse-MSE,Parkinson proxy -> return variance,1.16831861356,769,True,0,OK
+Copper,Historical Vol 20,Direct return variance,1,769,True,0,OK
