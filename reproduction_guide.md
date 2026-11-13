@@ -1,7 +1,6 @@
 # Reproduction Guide — EUA Futures
 
 **Study:** *Do Volatility Regimes Improve Forecast Combinations? Evidence from Energy, Copper, and Carbon Markets*  
-**Notebook reviewed:** `Probability-Weighted Regime - EU ETS EUA(4).ipynb`  
 **Scope of this document:** The actual EUA notebook supplied for review. The other three market notebooks have not been audited for their exact cell sequence in this guide.
 
 ## 1. Reproducibility status and scope
