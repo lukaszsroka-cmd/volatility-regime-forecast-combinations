@@ -1,0 +1,53 @@
+Market,Distribution,VaR_Level,Comparison,N,Mean_Loss_Diff,DM_stat,p_value,HAC_lags,Status,p_value_Holm,Significant_Holm_5pct
+Natural Gas,Gaussian,0.95,HAR vs Historical Vol 20,1766,-0.037389156241,-3.42451684772,0.000629985997118,7,OK,0.00755983196542,True
+Natural Gas,Gaussian,0.95,Random Forest vs Historical Vol 20,1766,-0.0320699621015,-2.54955695811,0.0108699037793,7,OK,0.065219422676,False
+Natural Gas,Gaussian,0.95,Equal Weight 3 vs Historical Vol 20,1766,-0.0338538280511,-2.97197306401,0.00299895807208,7,OK,0.0269906226487,True
+Natural Gas,Gaussian,0.95,Static QLIKE vs Historical Vol 20,1766,-0.0343047168211,-2.96380669038,0.00307928844515,7,OK,0.0269906226487,True
+Natural Gas,Gaussian,0.95,Regime Weighted vs Historical Vol 20,1766,-0.0347752248928,-3.2279455387,0.00126970569306,7,OK,0.0139667626237,True
+Natural Gas,Gaussian,0.95,Regime Switch vs Historical Vol 20,1766,-0.0331020992692,-3.02534529528,0.00251936026491,7,OK,0.0251936026491,True
+Natural Gas,Gaussian,0.95,Inverse-MSE vs Historical Vol 20,1766,-0.0338385731166,-2.97160739542,0.00300251373375,7,OK,0.0269906226487,True
+Natural Gas,Gaussian,0.95,GARCH native vs Historical Vol 20,1766,,,,,Not admissible for full Test,,False
+Natural Gas,Gaussian,0.95,Regime Switch vs Inverse-MSE,1766,0.00073647384739,0.395267023629,0.692693598593,7,OK,1,False
+Natural Gas,Gaussian,0.95,Regime Switch vs Random Forest,1766,-0.00103213716771,-0.211273419347,0.832698313582,7,OK,1,False
+Natural Gas,Gaussian,0.95,Inverse-MSE vs Equal Weight 3,1766,1.52549345503e-05,0.314486583186,0.753188674523,7,OK,1,False
+Natural Gas,Gaussian,0.95,Inverse-MSE vs Static QLIKE,1766,0.000466143704508,0.278897996929,0.780355778814,7,OK,1,False
+Natural Gas,Gaussian,0.95,Inverse-MSE vs Random Forest,1766,-0.0017686110151,-0.452456916843,0.650995455972,7,OK,1,False
+Natural Gas,Gaussian,0.99,HAR vs Historical Vol 20,1766,-0.00523068396058,-0.548650861721,0.583314466097,7,OK,1,False
+Natural Gas,Gaussian,0.99,Random Forest vs Historical Vol 20,1766,0.00347260547739,0.318614190648,0.750056788895,7,OK,1,False
+Natural Gas,Gaussian,0.99,Equal Weight 3 vs Historical Vol 20,1766,-0.000392572461038,-0.0438049697944,0.965064820567,7,OK,1,False
+Natural Gas,Gaussian,0.99,Static QLIKE vs Historical Vol 20,1766,0.0002424968913,0.026295434484,0.979024668997,7,OK,1,False
+Natural Gas,Gaussian,0.99,Regime Weighted vs Historical Vol 20,1766,-0.00343048858162,-0.394335660532,0.693380878347,7,OK,1,False
+Natural Gas,Gaussian,0.99,Regime Switch vs Historical Vol 20,1766,-0.00163850439956,-0.184568575072,0.853588639619,7,OK,1,False
+Natural Gas,Gaussian,0.99,Inverse-MSE vs Historical Vol 20,1766,-0.00042220169567,-0.0471167355045,0.962425519558,7,OK,1,False
+Natural Gas,Gaussian,0.99,GARCH native vs Historical Vol 20,1766,,,,,Not admissible for full Test,,False
+Natural Gas,Gaussian,0.99,Regime Switch vs Inverse-MSE,1766,-0.00121630270389,-0.615379338329,0.5383835693,7,OK,1,False
+Natural Gas,Gaussian,0.99,Regime Switch vs Random Forest,1766,-0.00511110987694,-0.695478594757,0.48684697647,7,OK,1,False
+Natural Gas,Gaussian,0.99,Inverse-MSE vs Equal Weight 3,1766,-2.9629234632e-05,-0.433086431981,0.665004897185,7,OK,1,False
+Natural Gas,Gaussian,0.99,Inverse-MSE vs Static QLIKE,1766,-0.000664698586969,-0.289674677685,0.772099154419,7,OK,1,False
+Natural Gas,Gaussian,0.99,Inverse-MSE vs Random Forest,1766,-0.00389480717306,-0.670628141192,0.502545191579,7,OK,1,False
+Natural Gas,Empirical,0.95,HAR vs Historical Vol 20,1766,-0.0353664503571,-2.90194206076,0.00375455834109,7,OK,0.045054700093,True
+Natural Gas,Empirical,0.95,Random Forest vs Historical Vol 20,1766,-0.0290385606478,-2.03899248358,0.041599488453,7,OK,0.331562137516,False
+Natural Gas,Empirical,0.95,Equal Weight 3 vs Historical Vol 20,1766,-0.0257765822921,-1.88510764205,0.0595794506347,7,OK,0.357476703808,False
+Natural Gas,Empirical,0.95,Static QLIKE vs Historical Vol 20,1766,-0.0287763468057,-2.11529665464,0.0345444438438,7,OK,0.310899994594,False
+Natural Gas,Empirical,0.95,Regime Weighted vs Historical Vol 20,1766,-0.0324122360302,-2.63942917832,0.00837768455085,7,OK,0.0921545300593,False
+Natural Gas,Empirical,0.95,Regime Switch vs Historical Vol 20,1766,-0.0316298083237,-2.56918517717,0.0102752975467,7,OK,0.102752975467,False
+Natural Gas,Empirical,0.95,Inverse-MSE vs Historical Vol 20,1766,-0.0257391939479,-1.88296329276,0.0598696713759,7,OK,0.357476703808,False
+Natural Gas,Empirical,0.95,GARCH native vs Historical Vol 20,1766,,,,,Not admissible for full Test,,False
+Natural Gas,Empirical,0.95,Regime Switch vs Inverse-MSE,1766,-0.00589061437578,-2.04053839927,0.0414452671894,7,OK,0.331562137516,False
+Natural Gas,Empirical,0.95,Regime Switch vs Random Forest,1766,-0.0025912476759,-0.526692363965,0.598473421863,7,OK,1,False
+Natural Gas,Empirical,0.95,Inverse-MSE vs Equal Weight 3,1766,3.73883441309e-05,0.823128831045,0.410545933074,7,OK,1,False
+Natural Gas,Empirical,0.95,Inverse-MSE vs Static QLIKE,1766,0.00303715285773,1.8337464034,0.066859942682,7,OK,0.357476703808,False
+Natural Gas,Empirical,0.95,Inverse-MSE vs Random Forest,1766,0.00329936669987,0.886437578034,0.375502537767,7,OK,1,False
+Natural Gas,Empirical,0.99,HAR vs Historical Vol 20,1766,-0.00389860126239,-0.38715307586,0.698689562258,7,OK,1,False
+Natural Gas,Empirical,0.99,Random Forest vs Historical Vol 20,1766,0.00812124370608,0.69576642868,0.486666716259,7,OK,1,False
+Natural Gas,Empirical,0.99,Equal Weight 3 vs Historical Vol 20,1766,0.00371767941,0.384565839213,0.700605437081,7,OK,1,False
+Natural Gas,Empirical,0.99,Static QLIKE vs Historical Vol 20,1766,0.00379302280573,0.392330734684,0.69486122754,7,OK,1,False
+Natural Gas,Empirical,0.99,Regime Weighted vs Historical Vol 20,1766,-0.0010989300913,-0.12019719852,0.904340617097,7,OK,1,False
+Natural Gas,Empirical,0.99,Regime Switch vs Historical Vol 20,1766,-5.65542031771e-05,-0.00612164915984,0.995116352956,7,OK,1,False
+Natural Gas,Empirical,0.99,Inverse-MSE vs Historical Vol 20,1766,0.00370749891205,0.383376251078,0.701486980104,7,OK,1,False
+Natural Gas,Empirical,0.99,GARCH native vs Historical Vol 20,1766,,,,,Not admissible for full Test,,False
+Natural Gas,Empirical,0.99,Regime Switch vs Inverse-MSE,1766,-0.00376405311522,-1.2500288186,0.211454733457,7,OK,1,False
+Natural Gas,Empirical,0.99,Regime Switch vs Random Forest,1766,-0.00817779790926,-0.959475382709,0.337450729034,7,OK,1,False
+Natural Gas,Empirical,0.99,Inverse-MSE vs Equal Weight 3,1766,-1.0180497958e-05,-0.153898241427,0.877707564573,7,OK,1,False
+Natural Gas,Empirical,0.99,Inverse-MSE vs Static QLIKE,1766,-8.5523893687e-05,-0.0391135678883,0.968804267113,7,OK,1,False
+Natural Gas,Empirical,0.99,Inverse-MSE vs Random Forest,1766,-0.00441374479403,-0.732652193179,0.463867871841,7,OK,1,False

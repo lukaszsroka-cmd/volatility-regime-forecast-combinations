@@ -1,0 +1,97 @@
+Market,Distribution,VaR_Level,Model,Regime,N,Exceptions,Hit_Rate,Mean_Quantile_Score
+Natural Gas,Gaussian,0.95,HAR,Low,591,30,0.0507614213198,0.378952227564
+Natural Gas,Gaussian,0.95,HAR,Normal,540,29,0.0537037037037,0.405307536212
+Natural Gas,Gaussian,0.95,HAR,High,635,42,0.0661417322835,0.623962874439
+Natural Gas,Gaussian,0.95,Random Forest,Low,591,31,0.0524534686971,0.372241883227
+Natural Gas,Gaussian,0.95,Random Forest,Normal,540,28,0.0518518518519,0.404342681989
+Natural Gas,Gaussian,0.95,Random Forest,High,635,42,0.0661417322835,0.645821979375
+Natural Gas,Gaussian,0.95,Equal Weight 3,Low,591,35,0.0592216582064,0.377090424531
+Natural Gas,Gaussian,0.95,Equal Weight 3,Normal,540,31,0.0574074074074,0.403832546516
+Natural Gas,Gaussian,0.95,Equal Weight 3,High,635,44,0.0692913385827,0.636782102173
+Natural Gas,Gaussian,0.95,Static QLIKE,Low,591,33,0.0558375634518,0.373822448348
+Natural Gas,Gaussian,0.95,Static QLIKE,Normal,540,28,0.0518518518519,0.404072070436
+Natural Gas,Gaussian,0.95,Static QLIKE,High,635,43,0.0677165354331,0.638365978456
+Natural Gas,Gaussian,0.95,Regime Weighted,Low,591,31,0.0524534686971,0.376648195424
+Natural Gas,Gaussian,0.95,Regime Weighted,Normal,540,28,0.0518518518519,0.40431892205
+Natural Gas,Gaussian,0.95,Regime Weighted,High,635,41,0.0645669291339,0.634217579011
+Natural Gas,Gaussian,0.95,Regime Switch,Low,591,30,0.0507614213198,0.37902258792
+Natural Gas,Gaussian,0.95,Regime Switch,Normal,540,28,0.0518518518519,0.404298346998
+Natural Gas,Gaussian,0.95,Regime Switch,High,635,41,0.0645669291339,0.636678341868
+Natural Gas,Gaussian,0.95,Inverse-MSE,Low,591,36,0.0609137055838,0.377181773683
+Natural Gas,Gaussian,0.95,Inverse-MSE,Normal,540,31,0.0574074074074,0.403855110233
+Natural Gas,Gaussian,0.95,Inverse-MSE,High,635,44,0.0692913385827,0.636720320219
+Natural Gas,Gaussian,0.95,Historical Vol 20,Low,591,30,0.0507614213198,0.407862301516
+Natural Gas,Gaussian,0.95,Historical Vol 20,Normal,540,25,0.0462962962963,0.464182759276
+Natural Gas,Gaussian,0.95,Historical Vol 20,High,635,38,0.059842519685,0.650971970125
+Natural Gas,Gaussian,0.99,HAR,Low,591,9,0.0152284263959,0.139598905756
+Natural Gas,Gaussian,0.99,HAR,Normal,540,9,0.0166666666667,0.13862909639
+Natural Gas,Gaussian,0.99,HAR,High,635,13,0.0204724409449,0.230836524188
+Natural Gas,Gaussian,0.99,Random Forest,Low,591,9,0.0152284263959,0.130053809144
+Natural Gas,Gaussian,0.99,Random Forest,Normal,540,8,0.0148148148148,0.13563886907
+Natural Gas,Gaussian,0.99,Random Forest,High,635,13,0.0204724409449,0.26646783757
+Natural Gas,Gaussian,0.99,Equal Weight 3,Low,591,10,0.0169204737733,0.136060416194
+Natural Gas,Gaussian,0.99,Equal Weight 3,Normal,540,8,0.0148148148148,0.137149270249
+Natural Gas,Gaussian,0.99,Equal Weight 3,High,635,14,0.0220472440945,0.248843545219
+Natural Gas,Gaussian,0.99,Static QLIKE,Low,591,9,0.0152284263959,0.132763875937
+Natural Gas,Gaussian,0.99,Static QLIKE,Normal,540,8,0.0148148148148,0.13635042195
+Natural Gas,Gaussian,0.99,Static QLIKE,High,635,13,0.0204724409449,0.254357192227
+Natural Gas,Gaussian,0.99,Regime Weighted,Low,591,10,0.0169204737733,0.136672017285
+Natural Gas,Gaussian,0.99,Regime Weighted,Normal,540,8,0.0148148148148,0.135563099476
+Natural Gas,Gaussian,0.99,Regime Weighted,High,635,14,0.0220472440945,0.241174436721
+Natural Gas,Gaussian,0.99,Regime Switch,Low,591,9,0.0152284263959,0.139722886944
+Natural Gas,Gaussian,0.99,Regime Switch,Normal,540,8,0.0148148148148,0.13549748637
+Natural Gas,Gaussian,0.99,Regime Switch,High,635,15,0.0236220472441,0.243374454318
+Natural Gas,Gaussian,0.99,Inverse-MSE,Low,591,10,0.0169204737733,0.136158837125
+Natural Gas,Gaussian,0.99,Inverse-MSE,Normal,540,8,0.0148148148148,0.137170318043
+Natural Gas,Gaussian,0.99,Inverse-MSE,High,635,14,0.0220472440945,0.248651643162
+Natural Gas,Gaussian,0.99,Historical Vol 20,Low,591,13,0.0219966159052,0.122117994503
+Natural Gas,Gaussian,0.99,Historical Vol 20,Normal,540,13,0.0240740740741,0.156953507082
+Natural Gas,Gaussian,0.99,Historical Vol 20,High,635,13,0.0204724409449,0.246070263795
+Natural Gas,Empirical,0.95,HAR,Low,591,38,0.0642978003384,0.381659783041
+Natural Gas,Empirical,0.95,HAR,Normal,540,35,0.0648148148148,0.407405746774
+Natural Gas,Empirical,0.95,HAR,High,635,47,0.0740157480315,0.631285672698
+Natural Gas,Empirical,0.95,Random Forest,Low,591,40,0.0676818950931,0.376522844553
+Natural Gas,Empirical,0.95,Random Forest,Normal,540,32,0.0592592592593,0.406383894314
+Natural Gas,Empirical,0.95,Random Forest,High,635,47,0.0740157480315,0.654534151756
+Natural Gas,Empirical,0.95,Equal Weight 3,Low,591,44,0.0744500846024,0.38531208131
+Natural Gas,Empirical,0.95,Equal Weight 3,Normal,540,38,0.0703703703704,0.410493339567
+Natural Gas,Empirical,0.95,Equal Weight 3,High,635,51,0.0803149606299,0.651931182332
+Natural Gas,Empirical,0.95,Static QLIKE,Low,591,42,0.0710659898477,0.380286510283
+Natural Gas,Empirical,0.95,Static QLIKE,Normal,540,36,0.0666666666667,0.408195668792
+Natural Gas,Empirical,0.95,Static QLIKE,High,635,49,0.0771653543307,0.650219797395
+Natural Gas,Empirical,0.95,Regime Weighted,Low,591,42,0.0710659898477,0.380130166599
+Natural Gas,Empirical,0.95,Regime Weighted,Normal,540,31,0.0574074074074,0.405854229951
+Natural Gas,Empirical,0.95,Regime Weighted,High,635,47,0.0740157480315,0.642244672546
+Natural Gas,Empirical,0.95,Regime Switch,Low,591,38,0.0642978003384,0.381786471745
+Natural Gas,Empirical,0.95,Regime Switch,Normal,540,31,0.0574074074074,0.405504212434
+Natural Gas,Empirical,0.95,Regime Switch,High,635,47,0.0740157480315,0.643176799235
+Natural Gas,Empirical,0.95,Inverse-MSE,Low,591,44,0.0744500846024,0.385425948831
+Natural Gas,Empirical,0.95,Inverse-MSE,Normal,540,38,0.0703703703704,0.410532164161
+Natural Gas,Empirical,0.95,Inverse-MSE,High,635,51,0.0803149606299,0.651896169466
+Natural Gas,Empirical,0.95,Historical Vol 20,Low,591,27,0.0456852791878,0.4098856288
+Natural Gas,Empirical,0.95,Historical Vol 20,Normal,540,23,0.0425925925926,0.469312668108
+Natural Gas,Empirical,0.95,Historical Vol 20,High,635,31,0.0488188976378,0.650728096268
+Natural Gas,Empirical,0.99,HAR,Low,591,8,0.0135363790186,0.136215040927
+Natural Gas,Empirical,0.99,HAR,Normal,540,7,0.012962962963,0.136453112242
+Natural Gas,Empirical,0.99,HAR,High,635,12,0.0188976377953,0.218586834378
+Natural Gas,Empirical,0.99,Random Forest,Low,591,9,0.0152284263959,0.128159575421
+Natural Gas,Empirical,0.99,Random Forest,Normal,540,8,0.0148148148148,0.134295234548
+Natural Gas,Empirical,0.99,Random Forest,High,635,13,0.0204724409449,0.261347590729
+Natural Gas,Empirical,0.99,Equal Weight 3,Low,591,10,0.0169204737733,0.13384528655
+Natural Gas,Empirical,0.99,Equal Weight 3,Normal,540,8,0.0148148148148,0.135807893647
+Natural Gas,Empirical,0.99,Equal Weight 3,High,635,13,0.0204724409449,0.2425227313
+Natural Gas,Empirical,0.99,Static QLIKE,Low,591,8,0.0135363790186,0.130472347119
+Natural Gas,Empirical,0.99,Static QLIKE,Normal,540,7,0.012962962963,0.134823930778
+Natural Gas,Empirical,0.99,Static QLIKE,High,635,13,0.0204724409449,0.246708248765
+Natural Gas,Empirical,0.99,Regime Weighted,Low,591,8,0.0135363790186,0.133843150964
+Natural Gas,Empirical,0.99,Regime Weighted,Normal,540,7,0.012962962963,0.133649497269
+Natural Gas,Empirical,0.99,Regime Weighted,High,635,12,0.0188976377953,0.23096472153
+Natural Gas,Empirical,0.99,Regime Switch,Low,591,9,0.0152284263959,0.136490401142
+Natural Gas,Empirical,0.99,Regime Switch,Normal,540,7,0.012962962963,0.133457541126
+Natural Gas,Empirical,0.99,Regime Switch,High,635,11,0.0173228346457,0.2315630952
+Natural Gas,Empirical,0.99,Inverse-MSE,Low,591,10,0.0169204737733,0.133963318145
+Natural Gas,Empirical,0.99,Inverse-MSE,Normal,540,8,0.0148148148148,0.135839440754
+Natural Gas,Empirical,0.99,Inverse-MSE,High,635,13,0.0204724409449,0.242357737804
+Natural Gas,Empirical,0.99,Historical Vol 20,Low,591,11,0.0186125211506,0.114093209996
+Natural Gas,Empirical,0.99,Historical Vol 20,Normal,540,12,0.0222222222222,0.153289440752
+Natural Gas,Empirical,0.99,Historical Vol 20,High,635,12,0.0188976377953,0.235700715503

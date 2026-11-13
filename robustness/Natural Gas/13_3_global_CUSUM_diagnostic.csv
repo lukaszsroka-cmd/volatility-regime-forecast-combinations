@@ -1,0 +1,2 @@
+Market,N,Sample_Start,Sample_End,Train_Frozen_Scale,CUSUM_OLS_Statistic,CUSUM_Asymptotic_p,Caveat
+Natural Gas,2556,2017-01-03,2026-09-22,4.155426322866143,6.041461014859315,3.964452523451049e-32,CUSUM asymptotic p-values may be sensitive to heteroskedasticity/dependence

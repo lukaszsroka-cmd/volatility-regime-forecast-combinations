@@ -1,0 +1,9 @@
+Market,Model,Kind,Scale_from_Validation,N_Validation,Test_admissible,Test_nonpositive,Reason
+Natural Gas,HAR,Parkinson proxy -> return variance,1.21725414238,789,True,0,OK
+Natural Gas,Random Forest,Parkinson proxy -> return variance,1.20201208687,789,True,0,OK
+Natural Gas,Equal Weight 3,Parkinson proxy -> return variance,1.16566226698,789,True,0,OK
+Natural Gas,Static QLIKE,Parkinson proxy -> return variance,1.19907006459,789,True,0,OK
+Natural Gas,Regime Weighted,Parkinson proxy -> return variance,1.20670896449,789,True,0,OK
+Natural Gas,Regime Switch,Parkinson proxy -> return variance,1.21078365155,789,True,0,OK
+Natural Gas,Inverse-MSE,Parkinson proxy -> return variance,1.16500050749,789,True,0,OK
+Natural Gas,Historical Vol 20,Direct return variance,1,789,True,0,OK

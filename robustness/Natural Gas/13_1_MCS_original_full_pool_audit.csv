@@ -1,0 +1,13 @@
+Model,Column,N,N_Nonfinite,N_Nonpositive,Strict_QLIKE_Admissible,Market,Identical_To
+Naive,Forecast_Naive,1766,0,0,True,Natural Gas,
+HAR,Forecast_HAR,1766,0,0,True,Natural Gas,
+GARCH,Forecast_GARCH,1766,0,0,True,Natural Gas,
+EGARCH,Forecast_EGARCH,1766,0,0,True,Natural Gas,
+GJR-GARCH,Forecast_GJR,1766,0,0,True,Natural Gas,
+Random Forest,Forecast_RF,1766,0,0,True,Natural Gas,
+XGBoost - original,Forecast_XGB,1766,0,0,True,Natural Gas,
+SVR,Forecast_SVR,1766,0,0,True,Natural Gas,
+Equal Weight 3,Forecast_Combo_EW3,1766,0,0,True,Natural Gas,
+Static QLIKE,Forecast_Combo_Static,1766,0,0,True,Natural Gas,
+Regime Weighted,Forecast_Combo_RegimeWeighted,1766,0,0,True,Natural Gas,
+Regime Switch,Forecast_Combo_RegimeSwitch,1766,0,0,True,Natural Gas,

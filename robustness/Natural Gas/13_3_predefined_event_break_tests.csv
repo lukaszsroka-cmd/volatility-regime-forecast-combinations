@@ -1,0 +1,3 @@
+Market,Event,Cutoff,N_Pre,N_Post,Mean_LogPV_Pre,Mean_LogPV_Post,Post_Intercept_Shift,Post_AR1_Slope_Shift,Joint_Wald_Chi2,df,p_raw_HAC,HAC_lags,Interpretation,p_Holm_within_market,Reject_5pct_Holm
+Natural Gas,COVID-19 (WHO pandemic declaration),2020-03-11,841,1715,0.600125644057186,1.1772118343081792,0.3318905996484266,-0.03568539020897174,121.47336102095892,2,4.1917445193910354e-27,7,Predefined-date AR(1) parameter-stability test; not causal,4.1917445193910354e-27,True
+Natural Gas,European energy crisis (predefined onset proxy),2021-09-01,1228,1328,0.697947278084575,1.254928241718948,0.36875176576770363,-0.07549331417199157,123.54344157464864,2,1.4889582636365587e-27,7,Predefined-date AR(1) parameter-stability test; not causal,2.9779165272731174e-27,True

@@ -1,0 +1,7 @@
+Comparison,Wald_stat,df,p_value,p_value_Holm,Significant_Holm_5pct
+Equal Weight 3 vs HAR,0.721186858637,2,0.697262427306,1,False
+Static QLIKE vs HAR,1.67153437262,2,0.433541746523,1,False
+Regime Weighted vs HAR,2.52282592558,2,0.283253516934,1,False
+Regime Switch vs HAR,2.37739054215,2,0.304618449402,1,False
+Regime Weighted vs Static QLIKE,1.4541909261,2,0.4833107473,1,False
+Regime Switch vs Static QLIKE,0.269529034502,2,0.873921680939,1,False
