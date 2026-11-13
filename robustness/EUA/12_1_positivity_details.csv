@@ -1,5 +1,0 @@
-Split,Model,Date,Target_Parkinson_t1,Forecast
-Validation,Naive,2018-12-26,3.57207000316,0
-Validation,Naive,2019-04-22,6.26120007962,0
-Validation,Naive,2019-12-26,3.55080200479,0
-Test,Naive,2021-04-05,5.50990921463,0
