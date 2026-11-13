@@ -1,6 +1,5 @@
 # Observed third-party dependencies imported or needed for interactive execution
-# of "Probability-Weighted Regime - EU ETS EUA(4).ipynb".
-# Notebook metadata: Python 3.10.20, kernel "garch_fix".
+# Notebook metadata: Python 3.10.20
 # Versions are deliberately NOT pinned: the source notebook does not record
 # the historical versions of these packages. In the ORIGINAL environment run:
 #   python -m pip freeze > requirements-lock.txt
