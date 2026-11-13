@@ -105,8 +105,7 @@ If the original environment is still available, its authentic versions can be re
 
 ## Reproducing the analysis
 
-**Read [`reproduction_guide.md`](reproduction_guide.md) before executing the notebook.** The current detailed, indexed execution guide was prepared for the **EUA notebook**. The Natural Gas, Brent and Copper notebooks share the main methodological structure, but their exact cell indices, optional analyses, checkpoints and local file paths are not guaranteed to be identical.
-
+**Read [`reproduction_guide.md`](reproduction_guide.md) before executing the notebook.
 ### 1. Configure the local data location
 
 Each original notebook begins with a **machine-specific Windows input path**. Replace this path with the location of your independently obtained CSV. For example, a reproducible local arrangement is `data/raw/EUA.csv` (not tracked in Git), provided the input still uses the headers and formats expected by the reader.
