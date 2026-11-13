@@ -1,5 +1,8 @@
-# Observed third-party dependencies imported or needed for interactive execution
-# Notebook metadata: Python 3.10.20
+# Python version: 3.10.20
+
+#This repository contains Python-based analytical and computational workflows developed in Jupyter Notebook.
+#The computational environment includes libraries for statistical analysis, econometric modeling, numerical computation, data processing, visualization, and interactive development.
+
 arch==8.0.0
 asttokens==3.0.1
 Bottleneck==1.4.2
