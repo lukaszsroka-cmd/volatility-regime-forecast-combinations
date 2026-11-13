@@ -1,0 +1,11 @@
+Model,MCS_pvalue,Mean_QLIKE,Included_MCS_95pct,MCS_Block_Size,MCS_Reps,MCS_Method,Market
+Equal Weight 3,1.0,2.545092067917757,True,41,3000,R; stationary bootstrap,Brent
+Static QLIKE,0.339,2.5469016610884556,True,41,3000,R; stationary bootstrap,Brent
+Random Forest,0.339,2.5509259182166875,True,41,3000,R; stationary bootstrap,Brent
+Regime Weighted,0.008333333333333333,2.5670201771088546,False,41,3000,R; stationary bootstrap,Brent
+HAR,0.007,2.5697772764549494,False,41,3000,R; stationary bootstrap,Brent
+GARCH,0.037333333333333336,2.59472539055989,False,41,3000,R; stationary bootstrap,Brent
+SVR,0.14,2.620276656433563,True,41,3000,R; stationary bootstrap,Brent
+GJR-GARCH,0.095,2.624124591049834,True,41,3000,R; stationary bootstrap,Brent
+EGARCH,0.14,2.6563499827417973,True,41,3000,R; stationary bootstrap,Brent
+Naive,0.0,2.9272421948333207,False,41,3000,R; stationary bootstrap,Brent
